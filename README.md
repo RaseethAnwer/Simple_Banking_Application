@@ -11,5 +11,4 @@ This application was made to using java Swing for desktop application i attach f
 ![Screenshot (292)](https://github.com/RaseethAnwer/Simple_Banking_Application/assets/111699969/6038cf9d-a4f7-4de9-8b5b-e33b9fc8a205)
 ![Screenshot (293)](https://github.com/RaseethAnwer/Simple_Banking_Application/assets/111699969/55195dd6-9cc1-4b4e-9d0f-0670106af33c)
 ![Screenshot (294)](https://github.com/RaseethAnwer/Simple_Banking_Application/assets/111699969/a1b3023c-84ee-4d3b-bd33-c952bf024028)
-![Screenshot (295)](https://github.com/RaseethAnwer/Simple_Banking_Application/assets/111699969/54cab837-2f97-4da3-af07-12c1883cf9bf)
 ![Screenshot (296)](https://github.com/RaseethAnwer/Simple_Banking_Application/assets/111699969/b470ec2b-dc51-451f-b92e-79ce354d18c8)
